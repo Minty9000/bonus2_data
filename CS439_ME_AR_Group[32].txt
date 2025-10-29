@@ -2,4 +2,4 @@ Gilbert:
     Created the Github Repo as well as setting up all the files
     Finished around half of the bonus jupyterlab
 Kareena:
-Shaan:
+Shaan: Finished the rest of the bonus jupyterlab final two subtasks
